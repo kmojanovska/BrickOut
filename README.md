@@ -18,9 +18,8 @@
   </li>
   
 </ul>
-<pre>
-<code>
- public void forCollision()
+```csharp
+public void forCollision()
         {
             if (ballRec.X < 0 || ballRec.X > 270)
             {
@@ -31,5 +30,4 @@
                 ySpeed *= -1;
             }
         }
-        </code>
-</pre>
+```
