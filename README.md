@@ -5,7 +5,7 @@
 Со самото стартување на играта се појавува следниот екран.
 </br>
 <a href="/kmojanovska/BrickOut/blob/BrickOut/brickOut/Resources/Start%20Game.png">
-  <img src="https://github.com/kmojanovska/BrickOut/blob/master/brickOut/brickOut/Resources/Start%20Game.png">
+  <img src="https://github.com/kmojanovska/BrickOut/blob/BrickOut/brickOut/Resources/Start%20Game.png">
 </a>
 </br>
 <ul>
@@ -34,3 +34,5 @@
             }
         }
 ```
+
+Оваа функција се справува како топчето да се движи и кога ќе наиде на блокада како да продложи да се движи по друга патека.
