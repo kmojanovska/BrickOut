@@ -1,0 +1,15 @@
+E:\Fakultet\Визуелно програмирање\VP-master\Kristina\brickOut\brickOut\bin\Debug\brickOut.exe
+E:\Fakultet\Визуелно програмирање\VP-master\Kristina\brickOut\brickOut\bin\Debug\brickOut.pdb
+E:\Fakultet\Визуелно програмирање\VP-master\Kristina\brickOut\brickOut\obj\x86\Debug\brickOut.Form1.resources
+E:\Fakultet\Визуелно програмирање\VP-master\Kristina\brickOut\brickOut\obj\x86\Debug\brickOut.Properties.Resources.resources
+E:\Fakultet\Визуелно програмирање\VP-master\Kristina\brickOut\brickOut\obj\x86\Debug\brickOut.csproj.GenerateResource.Cache
+E:\Fakultet\Визуелно програмирање\VP-master\Kristina\brickOut\brickOut\obj\x86\Debug\brickOut.exe
+E:\Fakultet\Визуелно програмирање\VP-master\Kristina\brickOut\brickOut\obj\x86\Debug\brickOut.pdb
+C:\Users\Dionis\Downloads\brickOut\brickOut\brickOut\obj\x86\Debug\brickOut.exe
+C:\Users\Dionis\Downloads\brickOut\brickOut\brickOut\obj\x86\Debug\brickOut.pdb
+C:\Users\Dionis\Downloads\brickOut\brickOut\brickOut\bin\Debug\brickOut.exe
+C:\Users\Dionis\Downloads\brickOut\brickOut\brickOut\bin\Debug\brickOut.pdb
+C:\Users\Dionis\Downloads\brickOut\brickOut\brickOut\obj\x86\Debug\brickOut.csprojResolveAssemblyReference.cache
+C:\Users\Dionis\Downloads\brickOut\brickOut\brickOut\obj\x86\Debug\brickOut.Form1.resources
+C:\Users\Dionis\Downloads\brickOut\brickOut\brickOut\obj\x86\Debug\brickOut.Properties.Resources.resources
+C:\Users\Dionis\Downloads\brickOut\brickOut\brickOut\obj\x86\Debug\brickOut.csproj.GenerateResource.Cache
