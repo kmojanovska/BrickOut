@@ -5,7 +5,7 @@
 Со самото стартување на играта се појавува следниот екран.
 </br>
 <a href="/kmojanovska/BrickOut/blob/BrickOut/brickOut/Resources/Start%20Game.png">
-  <img src="https://github.com/kmojanovska/BrickOut/blob/BrickOut/brickOut/Resources/Start%20Game.png">
+  <img src="BrickOut/brickOut/brickOut/Resources/Start Game.png">
 </a>
 </br>
 <ul>
